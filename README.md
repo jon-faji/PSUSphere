@@ -37,3 +37,12 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 Access the application at: 
+
+## Features
+- College Management
+- Program Management
+- Student Information System
+- Organization Management
+- Organization Membership Tracking
+- User Authentication
+- Responsive Dashboard
