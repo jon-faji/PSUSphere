@@ -46,3 +46,9 @@ Access the application at:
 - Organization Membership Tracking
 - User Authentication
 - Responsive Dashboard
+
+## Project Structure
+- `projectsite/` - Main project directory
+  - `templates/` - HTML templates
+  - `static/` - Static files (CSS, JavaScript, Images)
+  - `projectsite/` - Project settings and configuration
