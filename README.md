@@ -18,3 +18,8 @@ cd psuphere
 python -m venv myenv
 # For Windows
 myenv\Scripts\activate
+
+3. Install dependencies
+```bash
+pip install -r requirements.txt
+```
