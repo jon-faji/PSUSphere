@@ -59,3 +59,10 @@ Access the application at:
 - Crispy Forms
 - SQLite Database
 - Bootstrap (Frontend)
+
+## Note
+This is a local development setup. For production deployment, make sure to:
+- Change DEBUG to False
+- Use a production-grade database
+- Set up proper security measures
+- Configure static file serving
