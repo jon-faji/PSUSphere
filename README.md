@@ -5,3 +5,11 @@ A Django-based web application for managing college, program, student, and organ
 ## Login Credentials
 - **Username:** admin
 - **Password:** admin123
+
+## Setup Instructions
+
+1. Clone the repository
+```bash
+git clone [repository-url]
+cd psuphere
+```
