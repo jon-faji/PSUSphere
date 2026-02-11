@@ -23,3 +23,7 @@ myenv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
+4. Setup the database
+```bash
+python manage.py migrate
+```
