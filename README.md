@@ -25,6 +25,7 @@ pip install -r requirements.txt
 ```
 4. Setup the database
 ```bash
+
 python manage.py migrate
 ```
 5. Create superuser (if not already created)
@@ -35,3 +36,4 @@ python manage.py createsuperuser
 ```bash
 python manage.py runserver
 ```
+Access the application at: 
