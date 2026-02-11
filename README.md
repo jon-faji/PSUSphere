@@ -52,3 +52,10 @@ Access the application at:
   - `templates/` - HTML templates
   - `static/` - Static files (CSS, JavaScript, Images)
   - `projectsite/` - Project settings and configuration
+ 
+ ## Technology Stack
+- Django 5.0.2
+- Django REST Framework
+- Crispy Forms
+- SQLite Database
+- Bootstrap (Frontend)
