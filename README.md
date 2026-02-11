@@ -13,3 +13,8 @@ A Django-based web application for managing college, program, student, and organ
 git clone [repository-url]
 cd psuphere
 ```
+2. Create and activate virtual environment
+```bash
+python -m venv myenv
+# For Windows
+myenv\Scripts\activate
