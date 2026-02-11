@@ -48,7 +48,7 @@ Access the application at:
 - Responsive Dashboard
 
 ## Project Structure
-- `projectsite/` - Main project directory
+  - `projectsite/` - Main project directory
   - `templates/` - HTML templates
   - `static/` - Static files (CSS, JavaScript, Images)
   - `projectsite/` - Project settings and configuration
